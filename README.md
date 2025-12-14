@@ -50,8 +50,8 @@ multi-agent simulation and AI world models.
 
 Suggested citation:
 
-> Mai, Z. (2025). *CSOC: Code–Source–Origin Cosmology (v1.1 draft)*.
-> CSOC Research. https://github.com/你的用户名/csoc-research
+> Mai, Z. (2025). *CSOC: Code–Source–Origin Cosmology (v1.1 draft)*.  
+> CSOC Research. https://github.com/maixun777/csoc-research
 
 ---
 
